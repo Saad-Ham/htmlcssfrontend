@@ -1,1 +1,2 @@
 These are the html,css files for the front-end of a program i am currently working on.
+This project is a hands-on learning exercise aimed at honing my HTML and CSS skills. It features a [e.g., "loginSignup page," "a front end landing page," "another page for adding divs"] that demonstrates my understanding of web design and development principles. The project focuses on implementing modern web standards and design techniques to create a visually appealing and functional web page.
